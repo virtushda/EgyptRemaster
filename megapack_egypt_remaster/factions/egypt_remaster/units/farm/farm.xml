@@ -67,12 +67,14 @@
 			<type value="stop" />
 			<name value="stop_skill"/>
 			<ep-cost value="0" />
-			<speed value="300" />
+			<speed value="40" />
 			<anim-speed value="40" />
 			<animation path="models/chickenfarm.g3d" />
 			<sound enabled="true" start-time="0">
 				<sound-file path="sounds/farm_idle1.wav"/>
 				<sound-file path="sounds/farm_idle2.wav"/>
+				<sound-file path="sounds/null.wav"/>
+				<sound-file path="sounds/null.wav"/>
 			</sound>
 		</skill>
 
@@ -86,6 +88,18 @@
 			<sound enabled="true" start-time="0">
 				<sound-file path="sounds/farm_idle1.wav"/>
 				<sound-file path="sounds/farm_idle2.wav"/>
+				<sound-file path="sounds/null.wav"/>
+				<sound-file path="sounds/null.wav"/>
+				<sound-file path="sounds/null.wav"/>
+				<sound-file path="sounds/null.wav"/>
+				<sound-file path="sounds/null.wav"/>
+				<sound-file path="sounds/null.wav"/>
+				<sound-file path="sounds/null.wav"/>
+				<sound-file path="sounds/null.wav"/>
+				<sound-file path="sounds/null.wav"/>
+				<sound-file path="sounds/null.wav"/>
+				<sound-file path="sounds/null.wav"/>
+				<sound-file path="sounds/null.wav"/>
 			</sound>
 		</skill>
 
