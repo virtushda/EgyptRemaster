@@ -240,20 +240,16 @@
 			<move-skill value="move_skill"/>
 			<build-skill value="build_skill"/>
 			<buildings>
-                                <building name="farm"/>
+                <building name="farm"/>
 				<building name="desert_camp"/>
 				<building name="temple"/>
-                                <building name="obelisk"/>
+                <building name="obelisk"/>
 				<building name="air_pyramid"/>
 				<building name="sphinx"/>
 				<building name="pyramid"/>
 			</buildings>
 			<start-sound enabled="false"/>
-			<built-sound enabled="true">
-				<sound-file path="$COMMONDATAPATH/sounds/worker_work_end1.wav"/>
-				<sound-file path="$COMMONDATAPATH/sounds/worker_work_end2.wav"/>
-				<sound-file path="$COMMONDATAPATH/sounds/worker_work_end3.wav"/>
-			</built-sound>
+			<built-sound enabled="false"/>
 		</command>
 
 		<command>
@@ -271,7 +267,7 @@
 				<unit name="sphinx"/>
 				<unit name="pyramid"/>
 				<unit name="air_pyramid"/>
-                                <unit name="obelisk"/>
+                <unit name="obelisk"/>
 			</repaired-units>
 		</command>
 
