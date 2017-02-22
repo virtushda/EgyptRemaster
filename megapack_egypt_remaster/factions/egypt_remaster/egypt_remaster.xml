@@ -15,7 +15,7 @@
 		<unit name="spearthrower" amount="1"/>
 		<unit name="chicken" amount="2"/>
 		<unit name="priest" amount="1"/>
-		<unit name="ibis" amount="0"/>
+		<unit name="snake" amount="0"/>
 	</starting-units>
 	<music value="true" path="music/asak-jadeflange.ogg"/>
 	<flat-particle-positions value="true"/>
