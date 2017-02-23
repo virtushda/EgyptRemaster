@@ -13,7 +13,7 @@
 		<armor-type value="wood"/>
 		<sight value="15"/>
 		<time value="150"/>
-		<multi-selection value="false"/>
+		<multi-selection value="true"/>
 		<cellmap value="false"/>
 		<levels>
 			<level name="elite" kills="10"/>
